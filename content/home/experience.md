@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
+Current research fronts.
+
   * Modeling functional nanomaterial with charged surface.
   * Ror-shaped nanoparticle modeling for located drug delivery.
   """
@@ -39,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2019-12-31"
   description = """
   
-  Provided assistance to the students with the following classes.
+Provided assistance to the students with the following classes.
   
   * ME 301 : Thermodynamics (Fall 2018).
   * ME 303 : Fluid Mechanics (Spring 2019).
