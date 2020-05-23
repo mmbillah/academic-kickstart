@@ -45,22 +45,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mdmuhtasim.billah@wsu.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=U-JSXRAAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mmbillah 
-- icon: linkedin-brands
+- icon: linkedin
   icon_pack: custom
   link: https://www.linkedin.com/in/mmb039/
-- icon: kaggle-brands
+- icon: kaggle
   icon_pack: custom
   link: https://www.kaggle.com/mdmuhtasimbillah
-- icon: medium-brands
+- icon: medium
   icon_pack: custom
   link: https://medium.com/@muhtasim.nishat
 # Link to a PDF of your resume/CV from the About widget.
