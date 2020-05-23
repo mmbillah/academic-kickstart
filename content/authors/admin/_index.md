@@ -52,14 +52,15 @@ social:
   icon_pack: fab
   link: https://github.com/mmbillah 
 - icon: linkedin
-  icon_pack: custom
+  icon_pack: fab
   link: https://www.linkedin.com/in/mmb039/
 - icon: kaggle
-  icon_pack: custom
+  icon_pack: fab
   link: https://www.kaggle.com/mdmuhtasimbillah
 - icon: medium
-  icon_pack: custom
+  icon_pack: fab
   link: https://medium.com/@muhtasim.nishat
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
