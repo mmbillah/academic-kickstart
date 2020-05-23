@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Washington State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Pullman, Washington"
+  date_start = "2020-01-13"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Modeling functional nanomaterial with charged surface.
+  * Ror-shaped nanoparticle modeling for located drug delivery.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "Washington State University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Pullman, Washington"
+  date_start = "2018-08-15"
+  date_end = "2019-12-31"
+  description = """
+  
+  Provided assistance to the students with the following classes.
+  
+  * ME 301 : Thermodynamics (Fall 2018).
+  * ME 303 : Fluid Mechanics (Spring 2019).
+  * ME 304 : Heat Transfer (Fall 2019).
+  """
 
 +++
