@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Md Muhtasim Billah
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Mechanical Engineering | MS Statistics Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Washington State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Machine Learning
+- Stochastic Modeling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechanical Engineering
+    institution: Washington State University
+    year: Expected 2022
+  - course: MS in Statistics
+    institution: Washington State University 
+    year: Expected 2021
+  - course: BSc in Mechanical Engineering
+    institution: Bangladesh University of Engineering and Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +44,30 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:mdmuhtasim.billah@wsu.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=U-JSXRAAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mmbillah 
+- icon: linkedin-brands
+  icon_pack: custom
+  link: https://www.linkedin.com/in/mmb039/
+- icon: kaggle-brands
+  icon_pack: custom
+  link: https://www.kaggle.com/mdmuhtasimbillah
+- icon: medium-brands
+  icon_pack: custom
+  link: https://medium.com/@muhtasim.nishat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: cv.pdf  #files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 2nd year PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing a Masters in Statistics at Washington State University, Pullman. My current research is on developing numerical models for biophysical systems and performing stochastic simulations based on C++ and Fortran programming language.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a self motivated learner and a data science enthusiast.
