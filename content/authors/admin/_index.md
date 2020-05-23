@@ -15,7 +15,7 @@ role: PhD Mechanical Engineering | MS Statistics Student
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: ""
+  url: "https://mme.wsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
