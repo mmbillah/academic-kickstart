@@ -1,4 +1,16 @@
 +++
+
+[[background]]
+  # Background color.
+  color = "crimson"
+  
+  # Background gradient.
+  gradient_start = "#4bb4e3"
+  gradient_end = "#2b94c3"
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true
+
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -53,16 +65,5 @@ subtitle = ""
 #  icon_pack = "custom"
 #  name = "Surfing"
 #  description = "90%"
-
-[background]
-  # Background color.
-  color = "crimson"
-  
-  # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true
 
 +++
