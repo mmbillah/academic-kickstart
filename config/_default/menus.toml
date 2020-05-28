@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Skills"
-  url = "#posts"
+  url = "#skills"
   weight = 20
 
 [[main]]
   name = "Experience"
-  url = "#projects"
+  url = "#exprience"
   weight = 30
 
 [[main]]
   name = "Accomplishments"
-  url = "#featured"
+  url = "#accomplishments"
   weight = 40
 
 #[[main]]
