@@ -24,6 +24,7 @@ interests:
 - Data Science
 - Machine Learning
 - Stochastic Modeling
+- Scientific Computing
 
 education:
   courses:
