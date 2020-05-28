@@ -9,15 +9,6 @@ weight = 30  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
-[[background]]
-  # Background color.
-  color = "Crimson"
-  
- 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["80px", "0", "80px", "0"]
-
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
