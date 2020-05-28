@@ -56,7 +56,7 @@ subtitle = ""
 
 [background]
   # Background color.
-  color = "navy"
+  color = "crimson"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
