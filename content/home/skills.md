@@ -11,18 +11,12 @@ subtitle = ""
 
 [[background]]
   # Background color.
-  color = "crimson"
+  color = "Crimson"
   
-  # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true
  
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["80px", "0", "80px", "0"]
 
 # Showcase personal skills or business features.
 # 
