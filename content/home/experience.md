@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 Current research fronts.
 
   * Modeling functional nanomaterial with charged surface.
-  * Ror-shaped nanoparticle modeling for located drug delivery.
+  * Rod-shaped nanoparticle modeling for located drug delivery.
   """
 
 [[experience]]
