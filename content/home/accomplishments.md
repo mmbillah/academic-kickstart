@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Python Programming"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/11a16e979db108837561711dd2ead3e8c18514cf"
+  date_start = "2020-05-01"
+  date_end = "2020-05-30"
+  description = ""
+
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -38,14 +49,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
