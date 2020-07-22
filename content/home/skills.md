@@ -36,9 +36,9 @@ subtitle = ""
   name = "Statistics"
   
 [[feature]]
-  icon = "superscript"
+  icon = "deep-learning"
   icon_pack = "fas"
-  name = "Machine Learning"
+  name = "Deep Learning"
 
 # Uncomment to use emoji icons.
 # [[feature]]
