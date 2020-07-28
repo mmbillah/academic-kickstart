@@ -26,28 +26,18 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/11a16e979db108837561711dd2ead3e8c18514cf"
   date_start = "2020-05-01"
-  date_end = "2020-05-30"
+  date_end = ""
   description = ""
 
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Machine Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/7QYVHH69P4ZL"
+  date_start = "2020-07-01"
   date_end = ""
   description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 
 +++
