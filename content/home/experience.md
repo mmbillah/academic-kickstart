@@ -43,9 +43,9 @@ Current research fronts.
   
 Provided assistance to the students with the following classes.
   
-  * ME 301 : Thermodynamics (Fall 2018).
-  * ME 303 : Fluid Mechanics (Spring 2019).
   * ME 304 : Heat Transfer (Fall 2019).
+  * ME 303 : Fluid Mechanics (Spring 2019).
+  * ME 301 : Thermodynamics (Fall 2018).
   """
 
 +++
