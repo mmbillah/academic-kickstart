@@ -26,10 +26,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-Current research fronts.
+Current research is focused on the following.
 
-  * Modeling functional nanomaterial with charged surface.
-  * Rod-shaped nanoparticle modeling for located drug delivery.
+  * Developed and further improved a preexisting probabilistic model based on Monte Carlo method written in C++ and Fortran programming language.
+
+  * Utilized the stochastic model for studying key parameters for drug delivery through blood brain barrier (BBB) as an aid for neurodegenerative diseases such as Alzheimer's and Parkinson's.
+
+  * Studied design parameters and relevant characteristic properties for manufacturing functional nanoparticle for drug delivery.
+
+  * Used finite volume method (FVM) for solving the forward part of an inverse problem using Bayesian Inference technique.
   """
 
 [[experience]]
@@ -41,7 +46,7 @@ Current research fronts.
   date_end = "2019-12-31"
   description = """
   
-Provided assistance to the students with the following classes.
+Assisted the instructor with preparing course materials, conducting the class and grading homework as well as exams. Guided students with in-class performance and homework.
   
   * ME 304 : Heat Transfer (Fall 2019).
   * ME 303 : Fluid Mechanics (Spring 2019).
