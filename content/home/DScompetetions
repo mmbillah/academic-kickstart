@@ -20,35 +20,15 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Deep Learning Specialization"
+  organization = "Kaggle | MoA"
+  organization_url = "https://www.kaggle.com/c/lish-moa"
+  title = "Top 9% (bronze medal), Kaggle Mechanism of Action (MoA) Detection"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/BZABKY6TK8F3"
-  date_start = "2020-10-31"
+  certificate_url = ""
+  date_start = "2020-11-30"
   date_end = ""
-  description = "This specialization consisted of five courses on deep neural networks: Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks and Sequence Models."
+  description = "The challenge was to solve a multi-label classification problem to predict mechanism of action (MoA) for a new drug."
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Machine Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/7QYVHH69P4ZL"
-  date_start = "2020-07-01"
-  date_end = ""
-  description = "An in-depth look into the common supervised and unsupervised machine learning algorithms including regression, classification, recommender systems and anomaly detection."
-  
-  
- [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Python Programming"
-  url = ""
-  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/11a16e979db108837561711dd2ead3e8c18514cf"
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "Learned the fundamentals of Python that included the basic data types and structures, utilizing the built in and user defined functions."
   
   
 +++
