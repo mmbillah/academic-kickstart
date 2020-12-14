@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/11a16e979db108837561711dd2ead3e8c18514cf"
   date_start = "2020-10-31"
   date_end = ""
-  description = ""
+  description = "This specialization consisted of five courses on deep neural networks: Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks and Sequence Models."
 
 [[item]]
   organization = "Coursera"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/BZABKY6TK8F3"
   date_start = "2020-07-01"
   date_end = ""
-  description = ""
+  description = "An in-depth look into the common supervised and unsupervised machine learning algorithms including regression, classification, recommender systems and anomaly detection."
   
   
  [[item]]
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/11a16e979db108837561711dd2ead3e8c18514cf"
   date_start = "2020-05-01"
   date_end = ""
-  description = ""
+  description = "Learned the fundamentals of Python that included the basic data types and structures, utilizing the built in and user defined functions."
   
   
 +++
