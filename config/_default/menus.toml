@@ -22,6 +22,11 @@
   name = "Accomplishments"
   url = "#accomplishments"
   weight = 40
+  
+[[main]]
+  name = "Data Science Competetions"
+  url = "#DScompetetions"
+  weight = 40
 
 #[[main]]
 #  name = "Contact"
