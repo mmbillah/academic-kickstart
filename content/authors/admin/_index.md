@@ -78,6 +78,8 @@ user_groups:
 - Visitors
 ---
 
-I am a 2nd year PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing a Masters in Statistics at Washington State University, Pullman. My current research is on developing numerical models for biophysical systems and performing stochastic simulations based on C++ and Fortran programming language.
+Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Masters Degree in Statistics at Washington State University, Pullman. I am actively looking for internships in Data Science and Machine Learning for Summer 2021.
 
-I am a self motivated learner and a data science enthusiast.
+My PhD research is focused on developing a complex numerical model in C++ and Fortran programming language and performing stochastic (Monte Carlo) simulations for investigating drug delivery via blood-brain barrier (BBB).
+
+Pursuing MS in Statistics has fueled my interest in exploring the expansive world of deep learning and data science to decipher intriguing, real-life problems. 
