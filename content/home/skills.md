@@ -16,29 +16,36 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  
-[[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  
+ 
+[[feature]]
+  icon = "superscript"
+  icon_pack = "fas"
+  name = "Deep Learning"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Big Data"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   
-[[feature]]
-  icon = "superscript"
-  icon_pack = "fas"
-  name = "Deep Learning"
 
 # Uncomment to use emoji icons.
 # [[feature]]
