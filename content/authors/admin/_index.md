@@ -33,7 +33,7 @@ education:
     year: Expected 2022
   - course: MS in Statistics
     institution: Washington State University 
-    year: Expected 2021
+    year: Expected 2022
   - course: BSc in Mechanical Engineering
     institution: Bangladesh University of Engineering and Technology
     year: 2017
