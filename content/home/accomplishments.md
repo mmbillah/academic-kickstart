@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Kaggle / MoA"
+  organization_url = "https://www.kaggle.com/c/lish-moa"
+  title = "Mechanism of Action (MoA) Detection"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-30"
+  date_end = ""
+  description = "Aimed at solving a multi-lable classification problem to predict mechanism of action (MoA) for new drugs."
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Deep Learning Specialization"
