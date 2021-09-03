@@ -28,13 +28,15 @@ date_format = "Jan 2006"
   
 Current research is focused on the following.
 
+  * Used finite volume method (FVM) for solving the forward part of an inverse problem using Bayesian Inference technique.
+  
   * Developed and further improved a preexisting probabilistic model based on Monte Carlo method written in C++ and Fortran programming language.
 
   * Utilized the stochastic model for studying key parameters for drug delivery through blood brain barrier (BBB) as an aid for neurodegenerative diseases such as Alzheimer's and Parkinson's.
 
   * Studied design parameters and relevant characteristic properties for manufacturing functional nanoparticle for drug delivery.
 
-  * Used finite volume method (FVM) for solving the forward part of an inverse problem using Bayesian Inference technique.
+  * Studied complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations.
   """
 
 [[experience]]
