@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Kaggle / Jane Street"
+  organization_url = "https://www.kaggle.com/c/jane-street-market-prediction/overview"
+  title = "Top 8% (bronze medal), Kaggle Jane Street Market Prediction"
+  url = "https://www.kaggle.com/c/jane-street-market-prediction/overview"
+  certificate_url = ""
+  date_start = "2021-08-23"
+  date_end = ""
+  description = "Predictive modeling of trading decisions based on real global stock exchange data to maximize the return."
+
+[[item]]
   organization = "Kaggle / MoA"
   organization_url = "https://www.kaggle.com/c/lish-moa"
   title = "Top 9% (bronze medal), Kaggle Mechanism of Action (MoA) Detection"
@@ -49,7 +59,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = "An in-depth look into the common supervised and unsupervised machine learning algorithms including regression, classification, recommender systems and anomaly detection."
   
-  
+ 
+ [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Data Scientist with Python"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/6eb00b65fa641a68b8ac68dad731d4ab9fef58b6"
+  date_start = "2021-04-28"
+  date_end = ""
+  description = "Completed a 23 course series that focused on the widely used machine learning algorithms and data science techniques in Python."
+ 
  [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
