@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist | PhD Mechanical Engineering & MS Statistics Student
+role: Data Scientist | PhD Candidate Mechanical Engineering & MS Student Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -46,18 +46,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mdmuhtasim.billah@wsu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=U-JSXRAAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mmbillah 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mmb039/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mmbillah 
 - icon: kaggle
   icon_pack: fab
-  link: https://www.kaggle.com/mdmuhtasimbillah
+  link: https://www.kaggle.com/mdmuhtasimbillah  
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=U-JSXRAAAAAJ
 - icon: medium
   icon_pack: fab
   link: https://mmbillah.medium.com
@@ -78,8 +78,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Masters Degree in Statistics at Washington State University, Pullman. I am actively looking for internships in Data Science and Machine Learning for Summer 2021.
+Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Masters Degree in Statistics at Washington State University, Pullman. I am actively looking for internships in Data Science and Machine Learning positions for Summer 2022.
 
-My PhD research is focused on developing a complex numerical model in C++ and Fortran programming language and performing stochastic (Monte Carlo) simulations for investigating drug delivery via blood-brain barrier (BBB).
+My PhD research is focused on developing a complex numerical model in C++ and Fortran programming language and performing stochastic (Monte Carlo) simulations for investigating drug delivery via blood-brain barrier (BBB). I am also studying complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations. 
 
 Pursuing MS in Statistics has fueled my interest in exploring the expansive world of deep learning and data science to decipher intriguing, real-life problems. 
