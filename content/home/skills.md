@@ -34,7 +34,7 @@ subtitle = ""
 [[feature]]
   icon = "superscript"
   icon_pack = "fas"
-  name = "Deep Learning"
+  name = "Machine Learning"
 
 [[feature]]
   icon = "database"
