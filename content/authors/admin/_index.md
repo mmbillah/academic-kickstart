@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist | PhD Candidate Mechanical Engineering & MS Student Statistics
+role: Data Scientist | PhD Candidate Mechanical Engineering | MS Student Statistics
 
 # Organizations/Affiliations
 organizations:
