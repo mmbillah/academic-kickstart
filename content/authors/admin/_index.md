@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Masters Degree in Statistics at Washington State University, Pullman. I am actively looking for internships in Data Science and Machine Learning positions for Summer 2022.
+Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Master's Degree in Statistics at Washington State University, Pullman. I am actively looking for internships in Data Science and Machine Learning positions for Summer 2022.
 
 My PhD research is focused on developing a complex numerical model in C++ and Fortran programming language and performing stochastic (Monte Carlo) simulations for investigating drug delivery via blood-brain barrier (BBB). I am also studying complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations. 
 
