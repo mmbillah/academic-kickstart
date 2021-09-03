@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-08-23"
   date_end = ""
-  description = "Predictive modeling of trading decisions based on real global stock exchange data to maximize the return."
+  description = "Predictive modeling of trading decisions to maximize the return based on real global stock exchange data."
 
 [[item]]
   organization = "Kaggle / MoA"
