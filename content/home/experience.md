@@ -51,7 +51,7 @@ Current research is focused on the following.
   date_end = "2022-08-12"
   description = """
   
-Worked remotely and had an enriching experience of learning new tools and techniques, summarized below.
+The amazing, 12 weeks long, remote internship experience is summarized below.
   
 * Worked within Agile software development environment by utilizing CI/CD tools and best practices.
 
