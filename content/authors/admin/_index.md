@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: Washington State University
-    year: Expected 2022
+    year: Expected 2023
   - course: MS in Statistics
     institution: Washington State University 
     year: Expected 2022
@@ -78,8 +78,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Master's Degree in Statistics at Washington State University, Pullman. I am actively looking for internships in Data Science and Machine Learning positions for Summer 2022.
+Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD Candidate in the School of Mechanical and Materials Engineering and alongside pursuing my Master's Degree in Statistics at Washington State University, Pullman. I am actively looking for internships (in summer 2023) as well as full time positions in Data Science, Machine Learning or similar roles.
 
-My PhD research is focused on developing a complex numerical model in C++ and Fortran programming language and performing stochastic (Monte Carlo) simulations for investigating drug delivery via blood-brain barrier (BBB). I am also studying complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations. 
+My PhD research has been primarily focused on developing a complex numerical model in C++ and Fortran programming language and performing stochastic (Monte Carlo) simulations for investigating drug delivery via blood-brain barrier (BBB). Lately, I have been working on utilizing Physics Informed Neural Networks (PINNs) for solving heat treansfer problems. I am also studying complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations.
 
-Pursuing MS in Statistics has fueled my interest in exploring the expansive world of deep learning and data science to decipher intriguing, real-life problems. 
+Pursuing MS in Statistics has fueled my interest in exploring the expansive world of deep learning and data science to decipher intriguing, real-life problems.
