@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Washington State University"
-  company_url = ""
+  company_url = "https://wsu.edu"
   location = "Pullman, Washington"
   date_start = "2018-08-15"
   date_end = ""
@@ -29,17 +29,17 @@ date_format = "Jan 2006"
   
 Current research is focused on the following.
 
-  * Used finite volume method (FVM) for solving an inverse heat transfer problem using Bayesian Inference machine learning technique.
+* Used finite volume method (FVM) for solving an inverse heat transfer problem using Bayesian Inference machine learning technique.
 
-  * Customized loss functions to deploy physics informed neural networks for complex unsteady, multi-dimensional heat transfer problems.
+* Customized loss functions to deploy physics informed neural networks for complex unsteady, multi-dimensional heat transfer problems.
 
-  * Developed and further improved a probabilistic model based on Monte Carlo method written in C++ and Fortran programming language.
+* Developed and further improved a probabilistic model based on Monte Carlo method written in C++ and Fortran programming language.
 
-  * Utilized the stochastic model for studying key parameters for drug delivery through blood brain barrier (BBB) as an aid for neurodegenerative diseases such as Alzheimer's and Parkinson's.
+* Utilized the stochastic model for studying key parameters for drug delivery through blood brain barrier (BBB) as an aid for neurodegenerative diseases such as Alzheimer's and Parkinson's.
 
-  * Studied design parameters and relevant characteristic properties for manufacturing functional nanoparticle for drug delivery.
+* Studied design parameters and relevant characteristic properties for manufacturing functional nanoparticle for drug delivery.
 
-  * Investigated complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations.
+* Investigated complex polymer/solvent/nonsolvent systems for industrial applications using atomistic models and molecular dynamics simulations.
   """
 
 [[experience]]
@@ -63,17 +63,18 @@ Current research is focused on the following.
 [[experience]]
   title = "Teaching Assistant"
   company = "Washington State University"
-  company_url = ""
+  company_url = "https://wsu.edu"
   location = "Pullman, Washington"
   date_start = "2018-08-15"
-  date_end = "2019-12-31"
+  date_end = ""
   description = """
   
 Assisted the instructor with preparing course materials, conducting the class and grading homework as well as exams. Guided students with in-class performance and homework.
   
-  * ME 304 : Heat Transfer (Fall 2019).
-  * ME 303 : Fluid Mechanics (Spring 2019).
-  * ME 301 : Thermodynamics (Fall 2018).
+* ME 301 : Thermodynamics (Fall 2018).
+* ME 303 : Fluid Mechanics (Spring 2019).
+* ME 304 : Heat Transfer (Fall 2019, Fall 2022).
+* ME 306 : Thermal and Fluids Laboratory (Spring 2022, Fall 2022).
   """
 
 +++
