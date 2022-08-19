@@ -51,6 +51,8 @@ Current research is focused on the following.
   date_end = "2022-08-12"
   description = """
   
+Worked remotely and had an enriching experience of learning new tools and techniques, summarized below.
+  
 * Worked within Agile software development environment by utilizing CI/CD tools and best practices.
 
 * Incorporated new NLP functionalities (text summarization and emotion detection) to the existing codebase and wrote necessary code for unit testing and model benchmarking against relevant metrics.
