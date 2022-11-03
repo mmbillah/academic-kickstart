@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD candidate in the School of Mechanical and Materials Engineering (MME) at Washington State University (WSU), Pullman. I completed my Master's Degree in Statistics from WSU in Fall 2022. I am actively looking for full time positions in Data Science, Machine Learning or similar roles.
+Welcome to my personal website which serves to showcase my portfolio. I am currently a PhD candidate in the School of Mechanical and Materials Engineering (MME) at Washington State University (WSU), Pullman. My expected graduation date is Summer 2023. I completed my Master's Degree in Statistics from WSU in Fall 2022. I am actively looking for full time positions in Data Science, Machine Learning or similar roles.
 
 My PhD research has been initially focused on implementing a Monte Carlo based probabilistic model in C++ and Fortran for studying bioparticle transport across blood-brain barrier (BBB). Lately, I have been working on utilizing physics informed neural networks (PINNs) for solving inverse heat treansfer problems. I have also studied complex polymer/solvent/nonsolvent systems for industrial applications using molecular dynamics simulations.
 
