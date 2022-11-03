@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: Washington State University
-    year: Expected Summer 2023
+    year: Summer 2023
   - course: MS in Statistics
     institution: Washington State University 
     year: 2022
